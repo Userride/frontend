@@ -21,6 +21,7 @@ const LOCATION_OPTIONS = [
 ];
 
 const TARGET_ROLE_OPTIONS = [
+  'Software Engineer',
   'Full Stack Developer',
   'Frontend Developer',
   'Backend Developer',
